@@ -1,1 +1,1 @@
-Programming requires dedication and commitment
+My first readme
